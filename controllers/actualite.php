@@ -4,5 +4,6 @@ $description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasell
 require_once('./components/start-requires.php');
 require_once('./components/navbar.php');
 //require_once('./views/landing-page.php');
+require_once('./components/footer.php');
 require_once('./components/end-requires.php');
 ?>

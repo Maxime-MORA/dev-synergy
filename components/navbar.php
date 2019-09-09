@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-xl navbar-light bg-transparent">
-        <a class="navbar-brand" href="#">
-            <img src="./app/Logo.png" height="35" alt="">
+        <a class="navbar-brand" href="/dev-synergy/">
+            <img src="./app/Logo.png" height="35" alt="Logo Synergy - GEIDE Marseille" name="Logo Synergy - Logiciel GEIDE">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
