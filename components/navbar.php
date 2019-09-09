@@ -24,10 +24,10 @@
                     <a class="nav-link" href="/dev-synergy/temoignages-clients">Témoignages clients</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/dev-synergy/actualite">Actualité</a>
+                    <a class="nav-link" href="/dev-synergy/notre-actualite">Actualité</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-contact nav-link" href="/dev-synergy/contact">Nous contacter</a>
+                    <a class="nav-contact nav-link" href="/dev-synergy/nous-contacter">Nous contacter</a>
                 </li>
             </ul>
         </div>

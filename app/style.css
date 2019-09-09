@@ -2,7 +2,6 @@
 
 body{
     font-family: 'Nunito Sans', sans-serif;
-    height:500vh;
 }
 
 .navbar{
@@ -42,7 +41,7 @@ body{
 .page-footer a:hover{
     text-decoration: none !important;
 }
-i{
+.footer-i{
     font-size: 22.5px;
     margin-top:10px;
 }

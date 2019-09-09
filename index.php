@@ -24,12 +24,28 @@ elseif($url == 'temoignages-clients') {
     require 'controllers/temoignages-clients.php';
 }
 //Page d'actualité
-elseif($url == 'actualite') {
+elseif($url == 'notre-actualite') {
     require 'controllers/actualite.php';
 }
 //Page de contact
-elseif($url == 'contact') {
+elseif($url == 'nous-contacter') {
     require 'controllers/contact.php';
+}
+//Page de connexion
+elseif($url == 'synergy-login') {
+    require 'controllers/login.php';
+}
+//Page de contact - ADMIN
+elseif($url == 'admin-contact') {
+    require 'controllers/admin-contact.php';
+}
+//Témoignages clients - ADMIN
+elseif($url == 'admin-temoignages') {
+    require 'controllers/admin-temoignages.php';
+}
+//Page d'actualité - ADMIN
+elseif($url == 'admin-actu') {
+    require 'controllers/admin-actu.php';
 }
 //Page d'erreur 404
 else {
