@@ -1,2 +1,2 @@
-# dev-synergy
+# Synergy GEIDE
 Site internet pour Synergy
