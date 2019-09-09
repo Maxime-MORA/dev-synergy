@@ -49,5 +49,5 @@ elseif($url == 'admin-actu') {
 }
 //Page d'erreur 404
 else {
-    require 'controllers/error404.php';
+    require 'controllers/404.php';
 }

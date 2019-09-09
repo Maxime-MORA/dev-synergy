@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-xl navbar-light bg-transparent">
+<nav class="navbar navbar-expand-xl navbar-light bg-white fixed-top">
         <a class="navbar-brand" href="/dev-synergy/">
             <img src="./app/Logo.png" height="35" alt="Logo Synergy - GEIDE Marseille" name="Logo Synergy - Logiciel GEIDE">
         </a>
