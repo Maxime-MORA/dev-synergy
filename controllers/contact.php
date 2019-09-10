@@ -5,6 +5,7 @@ require_once('./components/start-requires.php');
 require_once('./components/navbar.php');
 $herotext = "Nous contacter";
 require_once('./components/hero-banner-min.php');
+require_once('./views/contact.php');
 //require_once('./views/landing-page.php');
 require_once('./components/footer.php');
 require_once('./components/end-requires.php');
